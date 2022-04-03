@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Decentralized** Projects
 
-- 📫 How to reach me **abayercalvert@gmail.com**
+- 📫 How to reach me **abayercalvert@sfsu.edu**
 
 - ⚡ Fun fact **I play soccer and go to the gym often.**
 
