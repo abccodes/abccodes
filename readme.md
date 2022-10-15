@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Trilinkt, Aurora and UnderDogZ DAO**
+- 🔭 I’m currently working on **Aurora**
 
 - 🌱 I’m currently learning **React**
 
