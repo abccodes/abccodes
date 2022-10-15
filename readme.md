@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Aurora**
+- 🔭 I’m currently working on **Aura**
 
 - 🌱 I’m currently learning **Cyber Security**
 
