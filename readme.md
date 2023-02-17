@@ -6,11 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Aura**
+- 🔭 I’m currently working on **Pillpal**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 👨‍💻 I’m looking for **Work**
 
-- 👯 I’m looking to collaborate on **Decentralized** Projects
+- 🌱 I’m currently learning **AI**
+
+- 👯 I’m looking to collaborate on **Hackathons**
 
 - 📫 How to reach me **abayercalvert@sfsu.edu**
 
