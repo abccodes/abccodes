@@ -21,8 +21,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://soliditylang.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/solidity.svg"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img width="100" height="100" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://soliditylang.org/" target="_blank"> <img img width="100" height="100" src="https://cdn.svgporn.com/logos/solidity.svg"/> </a>
     <a href="https://trufflesuite.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/truffle-icon.svg"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
