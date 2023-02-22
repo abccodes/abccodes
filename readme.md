@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abayercalvert@sfsu.edu**
 
-- ⚡ Fun fact **I play soccer and go to the gym often.**
+- ⚡ Fun fact **I love to play soccer**
 
 ## 🚀 Languages and Tools:
 
