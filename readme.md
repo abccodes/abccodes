@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m looking for **Work**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning about **AI**
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
