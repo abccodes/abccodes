@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Pillpal**
+- 🔭 I’m currently working on **CalHack2023**
 
 - 👨‍💻 I’m looking for **Work**
 
