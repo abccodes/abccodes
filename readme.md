@@ -20,11 +20,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://www.docker.com/" target="_blank"> <img width="50" height="50" src="[https://cdn.svgporn.com/logos/typescript-icon.svg](https://cdn.svgporn.com/logos/docker-icon.svg)"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/> </a>
     <a href="https://hardhat.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/hardhat-icon.svg"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/> </a>
-    <a href="https://cdn.svgporn.com/logos/python.svg" target="_blank"> <img width="50" height="50" src=""/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img width="50" height="50" src=""/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/python.svg"/> </a>
     <a href="https://www.java.com" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://soliditylang.org/" target="_blank"> <img img width="50" height="50" src="https://cdn.svgporn.com/logos/solidity.svg"/> </a>
     <a href="https://trufflesuite.com/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/truffle-icon.svg"/> </a>
