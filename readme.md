@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **CalHack2023**
+- 🔭 I’m currently working on **Whats Plots**
 
 - 👨‍💻 I’m looking for **Work**
 
