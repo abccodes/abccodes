@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aidan</h1>
-<h3 align="center">I'm a passionate back-end developer currently studying in San Francisco.</h3>
+<h3 align="center">I'm a passionate developer currently studying in San Francisco.</h3>
 
 
 ## 🙋‍♂️ About Me
