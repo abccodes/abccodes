@@ -21,7 +21,7 @@
      <a href="https://www.typescriptlang.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
      <a href="https://reactjs.org/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
      <a href="https://www.java.com" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/docker-icon.svg"/> </a>
     <a href="https://hardhat.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/hardhat-icon.svg"/> </a>
