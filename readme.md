@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Whats Plots**
   
-- 🌱 I’m currently learning about **MongoDB**
+- 🌱 I’m currently learning about **ML Models**
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
