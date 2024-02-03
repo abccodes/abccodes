@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Hackathons**
 
 - 📫 How to reach me **abayercalvert@sfsu.edu**
-
+  
 - ⚡ Fun fact **I love to play soccer**
 
 ## 🚀 Languages and Tools:
