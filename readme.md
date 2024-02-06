@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m working on **Whats Plots**
+- 🔭 I’m working on **Roommate Finder(Roomie)**
 
 - 🌱 I’m learning about **ML Models**
   
