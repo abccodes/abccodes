@@ -71,8 +71,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Aidan__eth"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 
 </p>
 
