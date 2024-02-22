@@ -54,8 +54,6 @@
     </a>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abccodes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📊 My Github Stats
 
@@ -64,6 +62,9 @@
   <a href="https://github.com/abccodes/github-readme-stats"><img alt="Aidan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abccodes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  ![](https://github-profile-trophy.vercel.app/?username=abccodes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 <br/>
