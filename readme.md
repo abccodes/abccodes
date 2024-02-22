@@ -52,7 +52,9 @@
     ![Hardhat](https://img.shields.io/badge/hardhat-%23F05033.svg?style=for-the-badge&logo=hardhat&logoColor=white)
     ![Truffle](https://img.shields.io/badge/truffle-%23F05033.svg?style=for-the-badge&logo=truffle&logoColor=white)
     ![SQL](https://img.shields.io/badge/sql-%23F05033.svg?style=for-the-badge&logo=sql&logoColor=white)
-    ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
+      <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
           <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
