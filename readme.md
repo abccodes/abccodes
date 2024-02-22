@@ -100,4 +100,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abccodes">
 </a>
-<a href="https://github.com/abccodes?tab=followers"><img src="https://img.shields.io/github/followers/abccodes?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/abccodes?tab=followers">
+  <img src="https://img.shields.io/github/followers/abccodes?label=Followers&style=social" alt="GitHub Badge">
+</a>
