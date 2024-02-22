@@ -1,16 +1,19 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aidan</h1>
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello!;+I'm+Aidan+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
 
-## 🙋‍♂️ About Me
 
-- 🔭 I’m working on **Roommate Finder(Roomie)**
+<br>
 
-- 🌱 I’m learning about **ML Models**
-  
-- 👯 I’m looking to collaborate on **Hackathons**
+- Student developer
+- Reach me at abayercalvert@sfsu.edu
+- Looking to collaborate on hackathons
+- Learning about AWS
+- Playing soccer in my free time
+- Open for Internship opportunities, this is [my resume](https://drive.google.com/file/d/1LA31HZZefCeESfCfJ3vsZASYO86M0nla/view?usp=sharing)
 
-- 📫 How to reach me **abayercalvert@sfsu.edu**
-  
-- ⚡ Fun fact **I love to play soccer**
+</br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -44,8 +47,7 @@
   </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+
 
 ## 📊 My Github Stats
 
