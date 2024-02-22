@@ -41,31 +41,46 @@
     ![Truffle](https://img.shields.io/badge/truffle-%23F05033.svg?style=for-the-badge&logo=truffle&logoColor=white)
     ![SQL](https://img.shields.io/badge/sql-%23F05033.svg?style=for-the-badge&logo=sql&logoColor=white)
     ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
-<br>  
+
+<br><br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-  <br>
+<br>
 
-  <div align="center">
-
-<a href="https://github.com/abccodes/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abccodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abccodes&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="abccodes"/>
-
-</a>
+<div align="center">
+  <a href="https://github.com/abccodes/">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abccodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abccodes&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="abccodes"/>
+  </a>
 </div>
 
 
-<br/>
+<br><br>
 
-## Connect with me:
-<p align="left">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<br>
+<div align='left'>
 
-</p>
+<ul>
+
+<li>
+<a href="https://linkedin.com/aidanbayercalvert" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:aidanbayercalvert-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom:5px;"/>
+</a>
+</li>
+
+<br>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
+
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
