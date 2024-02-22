@@ -29,6 +29,16 @@
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=white)
 
+- **Tooling**:
+ 
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=Docker&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%23F05033.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+    ![NodeJS](https://img.shields.io/badge/NodeJS-%23F05033.svg?style=for-the-badge&logo=NodeJS&logoColor=white)
+    ![React](https://img.shields.io/badge/React-%23F05033.svg?style=for-the-badge&logo=React&logoColor=white)
+    ![Hardhat](https://img.shields.io/badge/Hardhat-%23F05033.svg?style=for-the-badge&logo=Hardhat&logoColor=white)
+
 
 <br>  
 
