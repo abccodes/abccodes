@@ -21,13 +21,13 @@
 <br>
 
 - **Languages**:
-    
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  
+  ![Typescript](https://img.shields.io/badge/Typescript%20-%2314354C.svg?style=for-the-badge&logo=Javascript&logoColor=white)
   ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=Javascript&logoColor=white)
-    ![Typescript](https://img.shields.io/badge/Typescript%20-%2314354C.svg?style=for-the-badge&logo=Javascript&logoColor=white)
-      ![Solidity](https://img.shields.io/badge/Solidity%20-%2314354C.svg?style=for-the-badge&logo=Solidity&logoColor=white)
-
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity%20-%2314354C.svg?style=for-the-badge&logo=Solidity&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 
 <br>  
