@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aidan</h1>
 
+
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m working on **Roommate Finder(Roomie)**
@@ -51,6 +53,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abccodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abccodes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📊 My Github Stats
 
