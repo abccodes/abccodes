@@ -22,7 +22,8 @@
 
 - **Languages**:
     
-    ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
+    ![Javascript]([https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5](https://shields.io/badge/JavaScript-F7DF1Elogo=JavaScript&logoColor=000&style=flat-square))
+  ![Typescript]([https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square))
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
