@@ -35,12 +35,13 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/mongoDB-%23F05033.svg?style=for-the-badge&logo=mongoDB&logoColor=white)
-    ![NodeJS](https://img.shields.io/badge/nodeJS-%23F05033.svg?style=for-the-badge&logo=nodeJS&logoColor=white)
-    ![React](https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![NodeJS]([https://img.shields.io/badge/nodeJS-%23F05033.svg?style=for-the-badge&logo=nodeJS&logoColor=white](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white))
+    ![React]([https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black))
     ![Hardhat](https://img.shields.io/badge/hardhat-%23F05033.svg?style=for-the-badge&logo=hardhat&logoColor=white)
     ![Truffle](https://img.shields.io/badge/truffle-%23F05033.svg?style=for-the-badge&logo=truffle&logoColor=white)
     ![SQL](https://img.shields.io/badge/sql-%23F05033.svg?style=for-the-badge&logo=sql&logoColor=white)
     ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![Express]([https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white))
 
 <br><br>
 
