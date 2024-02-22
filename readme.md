@@ -6,6 +6,7 @@
 <br>
 
 - Student developer
+- Check out my current project Roomie!
 - Reach me at abayercalvert@sfsu.edu
 - Looking to collaborate on hackathons
 - Learning about AWS
@@ -95,8 +96,9 @@
 
 
 
-
-## ❤ Views and Followers
+<br>
+## Views and Followers
+<br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abccodes">
 </a>
