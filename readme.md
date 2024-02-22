@@ -36,49 +36,12 @@
     ![Docker](https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=Docker&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%23F05033.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
     ![NodeJS](https://img.shields.io/badge/NodeJS-%23F05033.svg?style=for-the-badge&logo=NodeJS&logoColor=white)
-    ![React](https://img.shields.io/badge/React-%23F05033.svg?style=for-the-badge&logo=React&logoColor=white)
+    ![React](https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white)
     ![Hardhat](https://img.shields.io/badge/Hardhat-%23F05033.svg?style=for-the-badge&logo=Hardhat&logoColor=white)
-
-
+    ![Truffle](https://img.shields.io/badge/truffle-%23F05033.svg?style=for-the-badge&logo=truffle&logoColor=white)
+    ![SQL](https://img.shields.io/badge/sql-%23F05033.svg?style=for-the-badge&logo=sql&logoColor=white)
+    ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
 <br>  
-
-
-
-
-
-
-
-
-
-<p align="left"> 
-     <a href="https://www.typescriptlang.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-     <a href="https://reactjs.org/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-     <a href="https://www.java.com" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/docker-icon.svg"/> </a>
-    <a href="https://hardhat.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/hardhat-icon.svg"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/python.svg"/> </a>
-    <a href="https://soliditylang.org/" target="_blank"> <img img width="50" height="50" src="https://cdn.svgporn.com/logos/solidity.svg"/> </a>
-    <a href="https://trufflesuite.com/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/truffle-icon.svg"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://cloud.google.com/" target="_blank"> <img width="50" height="50" src="https://cdn.svgporn.com/logos/google-cloud.svg"/> </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-</p>
-
 
 
 ## 📊 My Github Stats
