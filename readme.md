@@ -50,8 +50,8 @@
 
   <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=abccodes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<a href="https://github.com/abccodes/">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abccodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abccodes&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="abccodes"/>
 
 </a>
