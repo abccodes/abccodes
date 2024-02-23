@@ -59,7 +59,9 @@
           <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
-  <a href="https://hibernate.org/" target="_blank"> 
+  <a href="https://hibernate.org/" target="_blank">
+  ![Firebase](https://img.shields.io/badge/Firebase-%23F05033.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![Convex](https://img.shields.io/badge/Convex-%23F05033.svg?style=for-the-badge&logo=Convex&logoColor=white)
 
 <br><br>
 
