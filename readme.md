@@ -11,7 +11,6 @@
 - Looking to collaborate on hackathons
 - Learning about AWS
 - Playing soccer in my free time
-- Open for Internship opportunities, this is [my resume](https://drive.google.com/file/d/1LA31HZZefCeESfCfJ3vsZASYO86M0nla/view?usp=sharing)
 
 <br><br>
 
