@@ -22,13 +22,9 @@ Hi, I’m Aidan Bayer-Calvert, a full-stack developer and machine learning engin
 </div>
 
 
-<br><br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
 <br>
-<div align='left'>
 
+<div align='left'>
 
 <a href="https://linkedin.com/in/aidan-bayer-calvert/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Aidan Bayer Calvert-Connect-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
