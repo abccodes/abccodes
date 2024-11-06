@@ -9,6 +9,8 @@ Hi, I’m Aidan Bayer-Calvert, a full-stack developer and machine learning engin
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
@@ -19,23 +21,8 @@ Hi, I’m Aidan Bayer-Calvert, a full-stack developer and machine learning engin
   </a>
 </div>
 
-
 <br>
-
-<div align='left'>
-
-<a href="https://linkedin.com/in/aidan-bayer-calvert/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Aidan Bayer Calvert-Connect-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-
-<br>
-</div>
-
-<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
-
-
-
 <br>
 
 ## Views and Followers
