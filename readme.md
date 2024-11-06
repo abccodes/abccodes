@@ -5,12 +5,7 @@
 
 <br>
 
-- Student developer
-- Check out my current project Roomie!
-- Reach me at abayercalvert@sfsu.edu
-- Looking to collaborate on hackathons
-- Learning about AWS
-- Playing soccer in my free time
+Hi, I’m Aidan Bayer-Calvert, a full-stack developer and machine learning engineer with expertise in backend development and a solid foundation in data science. I specialize in building scalable, impactful applications using TypeScript, Python, SQL, JavaScript, Java, and C++. My toolkit includes React, Node.js, Flask, Express, MongoDB, PyTorch, Docker, and AWS, as well as Vercel and Firebase. I’m passionate about creating efficient, data-driven solutions and contributing to open-source projects.
 
 <br>
 
