@@ -4,7 +4,7 @@
 
 <br>
 
-I am Aidan Bayer-Calvert, a senior at San Francisco State University, majoring in Computer Science with a minor in Computing Applications. Alongside my academic pursuits, I have gained valuable industry experience through roles at startups and as a Machine Learning Intern at Genentech, where I worked on cutting-edge projects at the intersection of technology and data science. As a teaching assistant at SFSU, I have honed my ability to communicate complex technical concepts, mentoring students in Python and machine learning courses. My expertise spans backend development, full-stack engineering, and data science, with a technical skillset that includes TypeScript, Python, SQL, JavaScript, Java, and C++. I am proficient in leveraging frameworks and tools such as React, Node.js, Flask, Express, MongoDB, PyTorch, Docker, and AWS to design and implement scalable, impactful applications.
+I am Aidan Bayer-Calvert, a senior at San Francisco State University, majoring in Computer Science with a minor in Computing Applications. Alongside my academic pursuits, I have gained valuable industry experience through roles at startups and as a Machine Learning Intern at Genentech, where I worked on cutting-edge projects at the intersection of technology and data science. As a teaching assistant at SFSU, I have honed my ability to communicate complex technical concepts, mentoring students in Python and machine learning courses. My expertise spans backend development, full-stack engineering, and data science, with a technical skillset that includes TypeScript, Python, SQL, JavaScript, Java, and C++. I am proficient in leveraging frameworks and tools such as React, Node.js, Flask, Express, MongoDB, PyTorch, Docker, and AWS.
 
 <br>
 
