@@ -4,7 +4,7 @@
 
 <br>
 
-Hi, I’m Aidan Bayer-Calvert, a full-stack developer and machine learning engineer with expertise in backend development and a solid foundation in data science. I specialize in building scalable, impactful applications using TypeScript, Python, SQL, JavaScript, Java, and C++. My toolkit includes React, Node.js, Flask, Express, MongoDB, PyTorch, Docker, and AWS, as well as Vercel and Firebase. I’m passionate about creating efficient, data-driven solutions and contributing to open-source projects.
+I am Aidan Bayer-Calvert, a full-stack developer and machine learning engineer with advanced expertise in backend development and a robust foundation in data science. My work focuses on architecting scalable, high-impact applications, leveraging a diverse technical skillset that includes TypeScript, Python, SQL, JavaScript, Java, and C++. I am proficient in frameworks and tools such as React, Node.js, Flask, Express, MongoDB, PyTorch, Docker, and AWS, as well as deployment platforms like Vercel and Firebase.
 
 <br>
 
