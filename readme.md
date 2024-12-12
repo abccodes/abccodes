@@ -4,7 +4,7 @@
 
 <br>
 
-I’m Aidan Bayer-Calvert, a senior at San Francisco State University majoring in Computer Science with a minor in Computing Applications. My skills include ML, full-stack engineering, and data science, with proficiency in TypeScript, Python, SQL, and tools like React, Node.js, Pandas, Numpy, Slurm, HPC, Flask, PyTorch, Docker, and AWS.
+I’m Aidan, a senior at San Francisco State University majoring in Computer Science with a minor in Computing Applications. My skills include AI, full-stack engineering, and data science, with proficiency in TypeScript, Python, SQL, and tools like React, Node.js, Pandas, Numpy, Slurm, HPC, Flask, PyTorch, Docker, and AWS.
 
 <br>
 
