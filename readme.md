@@ -14,7 +14,7 @@ I’m interested in Machine Learning, Software Engineering, Systems Programming,
 - I am interning as a Software Engineer at [Genentech](https://www.gene.com/).
 
 ##### Spring 2025
-- Graduated from San Francisco State University with a B.S. in Computer Science and minor in Computing Applications.
+- Graduated from San Francisco State University with a B.S. in Computer Science and minor in Computing Applications!
 - Instructional Teaching Assistant for Data Structures for Data Science Application Development.
 - Collaborated with UCLA Design Media Arts to develop [Chat Wrapped](https://github.com/abccodes/gpt-wrapped).
 - Relevant Courses:
@@ -29,10 +29,10 @@ I’m interested in Machine Learning, Software Engineering, Systems Programming,
 ##### Fall 2024
 - Instructional teaching assistant for the courses an Interdisciplinary Approach to Computer Programming and Machine Learning and Data Science.
 - Relevant Courses:
-    - Studied relational database design and implementation, including ER/EER modeling, SQL, normalization, indexing, query optimization, transactions, and Java/JDBC integration.
+    - Database Systems: Studied relational database design and implementation, including ER/EER modeling, SQL, normalization, indexing, query optimization, transactions, and Java/JDBC integration.
         - Designed a social media relational SQL database with 50 entities covering users, posts, chats, and ads, incorporating performance, backup, and AES-256 security standards.
     - Software Engineering. Final Project:
-        - [Review Platform](https://github.com/abccodes/review_platform)
+        - [Review Platform](https://github.com/abccodes/review_platform): A full-stack web application for review, discovery, and exploration of game recommendations
     - Analysis of Algorithms. Relevant topics: Algorithm design and analysis, time and space complexity, recursion, divide and conquer, backtracking, dynamic programming, greedy algorithms, and graph algorithms.
     - Graduate Artificial Intelligence. Relevant topics: Artificial intelligence fundamentals, problem-solving methods, heuristic search, game playing, agent architectures, machine learning, knowledge representation, and neural networks.
 
@@ -40,7 +40,7 @@ I’m interested in Machine Learning, Software Engineering, Systems Programming,
 - I am working as a Machine Learning Clinical Imaging Intern at [Genentech](https://www.gene.com/)
 
 ##### Spring 2024
-- I attended Treehacks, Stanfords hackathon. Me and my team built an [AI dermatologist platform](https://github.com/abccodes/Treehacks2024). We won 2nd for a prize track (Convex).
+- I attended Treehacks, Stanfords hackathon. Me and my team built an [AI dermatologist platform](https://github.com/abccodes/Treehacks2024). Won first hackathon, 2nd for a prize track (Convex).
 - Won 2nd place at San Francisco State Universty, [College of Computer Science and Engineering (COSE)](https://cose.sfsu.edu/student-project-showcase) annual research competition. Created a semantic segmentation algorithm for land cover using satellite imagery. 
 - Relevant Courses:
     - Software Development. Relevant Topics: Modern software applications, object-oriented programming (encapsulation, inheritance, polymorphism), software design, debugging, testing, user interface design, and software maintenance.
@@ -58,7 +58,7 @@ I’m interested in Machine Learning, Software Engineering, Systems Programming,
     - Probability and Statistics. Relevant topics: Data analysis, probability distributions, confidence intervals.
     - Programming Methodology. Went over advanced C++ data structures and algorithms.
     - Machine Structures. Relevant Topics: Fundamentals of digital logic, data representation, assembly programming, CPU organization, memory systems, and handling interrupts.
-    - Software Web Development. Relevant topics: Client/server programming, user input processing, database integration, and building web or e-commerce applications.
+    - Software Web Development. Relevant topics: Client/server programming, user input processing, database integration, and building web applications.
     - Physics 2. Relevant topics: Electricity and magnetism, covering electric and magnetic fields, circuits (DC and AC), electromagnetic induction, waves, and Maxwell’s equations.
 
 ##### 2022
