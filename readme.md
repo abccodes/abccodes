@@ -18,7 +18,7 @@ I’m interested in Machine Learning, Software Engineering, Systems Programming,
 - Instructional Teaching Assistant for Data Structures for Data Science Application Development.
 - Collaborated with UCLA Design Media Arts to develop [Chat Wrapped](https://github.com/abccodes/gpt-wrapped).
 - Relevant Courses:
-    - Operating Systems. Relevant topics: Processes and threads, synchronization, CPU and memory management, file systems, device drivers, and real-time vs. multi-tasking systems. Projects:
+    - Operating Systems. Relevant topics: Processes and threads, synchronization, CPU and memory management, file systems, device drivers, and real-time vs. multi-tasking systems. [Projects](https://github.com/abccodes/os-projects/tree/master):
         - File System: Working in a small team, I contributed to building a simple filesystem in C, implementing free-space tracking, core data structures, and directory initialization. We coordinated module boundaries and tested the full system together.
         - Device Driver: I built a Linux character device driver that performs Caesar-cipher encryption and decryption via standard read/write and ioctl calls. The module registers /dev/main, maintains an internal buffer, and allows users to change the shift and mode at runtime.
         - Buffered I/O Read: I implemented a custom buffered I/O system that reads files in fixed-size 512-byte blocks and manages its own internal buffer to reduce disk accesses. The project involved designing a file control block, implementing b_open, b_read, and b_close, and correctly handling block transitions, end-of-file conditions, and manual buffer management.
