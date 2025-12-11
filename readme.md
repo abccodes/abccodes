@@ -1,5 +1,5 @@
 #### Interests
-I am currently learning C++ and focusing on school and some personal projects. I’m interested in Machine Learning, Software Engineering, Systems Programming, Distributed Systems, and Large-Scale Data Processing. I enjoy thinking about how software is built, how systems scale, and how data moves through real applications.
+I’m currently deepening my experience in C++ while balancing coursework and several personal engineering projects. My interests span Machine Learning, Software Engineering, Systems Programming, Distributed Systems, and Large-Scale Data Processing.
 
 #### How I've Been Spending My Time
 ##### Fall 2025
