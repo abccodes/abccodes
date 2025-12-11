@@ -5,7 +5,7 @@ I’m currently deepening my experience in C++ while balancing coursework and se
 ##### Fall 2025
 - I started a Master's in Computer Science at [UCLA](https://www.cs.ucla.edu/)!
 - Working as a grader for the upper-division course: Design and Use of Programming Languages. 
-- Traveled to San Francisco to attend Calhacks, UC Berkeley's Hackathon. 
+- Attended Calhacks, UC Berkeley's Hackathon. 
 - Relevant Courses:
     - Graduate LLM Inference on Edge Devices. Relevant topics: LLM model compression (quantization, pruning, distillation), long-context inference (KV cache compression, state-space models, hierarchical memory transformers), and energy-efficient architectures such as sparse, linear, and flash attention, Mixture-of-Experts (MoE), speculative decoding, and hardware–software co-design for edge deployment.
     - Graduate Software Engineering. Relevant topics: automated software engineering techniques such as program differencing, code search, automated testing, and fuzzing (greybox, grammar-based, and stateful). Explored symbolic execution, statistical testing, debugging, and fault localization, with a focus on program representations like Abstract Syntax Trees (ASTs) and Control Flow Graphs (CFGs). Gained experience with AFL++, LLVM/LLVM-IR, Gramminator, and Evomaster for software analysis, automation, and fault detection.
