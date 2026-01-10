@@ -1,5 +1,11 @@
 #### Interests
-I’m currently deepening my experience in C++ while balancing coursework and several personal engineering projects. My interests span Machine Learning, Software Engineering, Systems Programming, Distributed Systems, and Large-Scale Data Processing.
+I’m currently deepening my experience in C++ while balancing coursework and several personal engineering projects. My interests span Machine Learning, Software Engineering, and Distributed Systems.
+
+##### Winter 2026
+- Working as a research assistant focusing on Autonomous Vehicles 
+- Relevant Courses:
+    - Graduate Big Data Systems
+    - Graduate Reinforcement Learning
 
 #### How I've Been Spending My Time
 ##### Fall 2025
