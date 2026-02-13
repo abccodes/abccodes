@@ -1,13 +1,13 @@
 #### Interests
 I’m currently deepening my experience in C++ while balancing coursework and several personal engineering projects. My interests span Machine Learning, Software Engineering, and Distributed Systems.
 
+#### How I've Been Spending My Time
 ##### Winter 2026
 - Working as a research assistant focusing on Autonomous Vehicles 
 - Relevant Courses:
     - Graduate Big Data Systems
     - Graduate Reinforcement Learning
 
-#### How I've Been Spending My Time
 ##### Fall 2025
 - I started a Master's in Computer Science at [UCLA](https://www.cs.ucla.edu/)!
 - Working as a grader for the upper-division course: Design and Use of Programming Languages. 
