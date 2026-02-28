@@ -3,10 +3,10 @@ My interests span Machine Learning, Software Engineering, Data Engineering, and 
 
 #### How I've Been Spending My Time
 ##### Winter 2026
-- Working as a research assistant focusing on optimizing VLA models in Autonomous Driving using edge LLM optimization techniques such as quantization.
+- Working as a research assistant focusing on end-to-end autonomous driving. [Lab](https://boleizhou.github.io/lab/)
 - Relevant Courses:
-    - Graduate Big Data Systems
-    - Graduate Reinforcement Learning
+    - Graduate Big Data Systems. Relevant topics: Distributed storage, database systems, processing of streaming data, relational data, batched data, graph data, and machine learning systems.
+    - Graduate Reinforcement Learning. Relevant topics: Markov decision processes, model-free vs. model-based methods, policy optimization, distributed RL system design, and applications like AlphaGo, traffic simulation, and autonomous driving, plus areas such as multi-agent RL, human-in-the-loop learning, and imitation learning.
 
 ##### Fall 2025
 - I started a Master's in Computer Science at [UCLA](https://www.cs.ucla.edu/)!
