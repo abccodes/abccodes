@@ -1,4 +1,3 @@
-#### How I've Been Spending My Time
 ##### Winter 2026
 - Working as a research assistant focusing on end-to-end autonomous driving. [Lab](https://boleizhou.github.io/lab/).
 - Relevant Courses:
