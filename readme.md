@@ -9,7 +9,7 @@
 - I started a Master's in Computer Science at [UCLA](https://www.cs.ucla.edu/)!
 - Grader for the course [Design and Use of Programming Languages](https://web.cs.ucla.edu/classes/winter26/cs131/)
 - Relevant Courses:
-    - Graduate LLM Inference on Edge Devices. [Snapdragon Edge LLM Inference](https://github.com/abccodes/snapdragon-llm-edge).
+    - Graduate LLM Inference on Edge Devices. [Snapdragon Edge LLM Inference](https://github.com/abccodes/snapdragon-llm-edge)
         - Quantization, pruning, distillation, KV cache compression, state-space models, hierarchical memory transformers, sparse, linear, flash attention, MOE, speculative decoding, and hardware–software co-design for edge deployment
     - [Graduate Software Engineering](https://web.cs.ucla.edu/~miryung//teaching/CS230-Fall2025/main.html). [Fuzzing Exploration](https://github.com/abccodes/cs230).
 
@@ -17,7 +17,7 @@
 - I am interning as a Software Engineer at [Genentech](https://www.gene.com/)
 
 ##### Spring 2025
-- Graduated from San Francisco State University with a B.S. in Computer Science and minor in Computing Applications!
+- Graduated from San Francisco State University with a B.S. in Computer Science and a minor in Computing Applications!
 - Instructional Teaching Assistant for Data Structures for Data Science Application Development
 - Collaborated with UCLA Design Media Arts to develop [Chat Wrapped](https://github.com/abccodes/gpt-wrapped)
 - Relevant Courses:
@@ -32,7 +32,7 @@
         - User-centered design, research methods, prototyping, and evaluation of usability
 
 ##### Fall 2024
-- Instructional teaching assistant for the courses an Interdisciplinary Approach to Computer Programming and Machine Learning and Data Science
+- Instructional teaching assistant for the courses, an Interdisciplinary Approach to Computer Programming, Machine Learning and Data Science
 - Relevant Courses:
     - Database Systems
         - Relational database design and implementation, including ER/EER modeling, SQL, normalization, indexing, query optimization, transactions, and Java/JDBC integration
@@ -47,8 +47,8 @@
 - I am working as a Machine Learning Clinical Imaging Intern at [Genentech](https://www.gene.com/)
 
 ##### Spring 2024
-- I attended Treehacks, Stanfords hackathon. Me and my team built an [AI dermatologist platform](https://github.com/abccodes/Treehacks2024). Won first hackathon, 2nd for a prize track (Convex).
-- Won 2nd place at San Francisco State Universty, [College of Computer Science and Engineering (COSE)](https://cose.sfsu.edu/student-project-showcase) annual research competition. Created a semantic segmentation algorithm for land cover using satellite imagery.
+- I attended Treehacks, Stanfords hackathon. My team and I built an [AI dermatologist platform](https://github.com/abccodes/Treehacks2024). Won first hackathon, 2nd for a prize track (Convex).
+- Won 2nd place at San Francisco State University, [College of Computer Science and Engineering (COSE)](https://cose.sfsu.edu/student-project-showcase) annual research competition. Created a semantic segmentation algorithm for land cover using satellite imagery.
 - Relevant Courses:
     - Software Development
         - Object-oriented programming, software design, debugging, testing, user interface design, and software maintenance
@@ -57,10 +57,10 @@
     - Software Engineering Ethics
 
 ##### 2023
-- Recieved year-long [Genentech scholarship](https://pinc.sfsu.edu/GEN-PINC%20Scholarship%20Winners%202023-2024)
+- Received year-long [Genentech scholarship](https://pinc.sfsu.edu/GEN-PINC%20Scholarship%20Winners%202023-2024)
 - Open-Source Internship at [Codeday](https://www.codeday.org/). Contributed to [The Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED).
 - Attended hackathons at Stanford, Berkeley, and UCLA
-- Created a platform for an education business which connected students and tutors. Worked with databases, cloud functions, authentication, and storage using TypeScript and Firebase.
+- Created a platform for an education business that connected students and tutors. Worked with databases, cloud functions, authentication, and storage using TypeScript and Firebase.
 - Relevant Courses:
     - Machine Learning
         - Supervised machine learning, model evaluation, data preprocessing, pandas, matplotlib/plotnine, and clustering
@@ -84,15 +84,15 @@
 - Relevant Courses:
     - Data Structures and Algorithms
         - Lists, stacks, queues, trees, heaps, graphs, recursion, iteration, hash tables, and Big O analysis
-    - Discrete Mathmatics
+    - Discrete Mathematics
         - Fundamentals of set theory, logic, functions, permutations, proof techniques, graph theory, and infinite sets with applications in computer science
     - Calculus 2
         - Integration, analytic geometry, polar coordinates, vectors, improper integrals, and sequences and series
 
 ##### 2021
 - Started my B.S. in Computer Science at [San Francisco State University](https://www.sfsu.edu/)!
-- Learned Javascript from online bootcamp
-- Did my first ever hackathon and created a recipe sharing app
+- Learned JavaScript from an online bootcamp
+- Did my first-ever hackathon and created a recipe-sharing app
 
 
 
