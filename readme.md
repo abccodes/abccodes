@@ -48,7 +48,7 @@
 
 ##### Spring 2024
 - I attended Treehacks, Stanfords hackathon. My team and I built an [AI dermatologist platform](https://github.com/abccodes/Treehacks2024). Won first hackathon, 2nd for a prize track (Convex).
-- Won 2nd place at San Francisco State University, [College of Computer Science and Engineering (COSE)](https://cose.sfsu.edu/student-project-showcase) annual research competition. Created a semantic segmentation algorithm for land cover using satellite imagery.
+- Won 2nd place at San Francisco State University, College of Computer Science and Engineering [research competition](https://cose.sfsu.edu/student-project-showcase). Created a semantic segmentation algorithm for land cover using satellite imagery.
 - Relevant Courses:
     - Software Development
         - Object-oriented programming, software design, debugging, testing, user interface design, and software maintenance
