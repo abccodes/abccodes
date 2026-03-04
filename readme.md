@@ -9,7 +9,7 @@
 - I started a Master's in Computer Science at [UCLA](https://www.cs.ucla.edu/)!
 - Grader for the course [Design and Use of Programming Languages](https://web.cs.ucla.edu/classes/winter26/cs131/)
 - Relevant Courses:
-    - Graduate LLM Inference on Edge Devices. [Snapdragon Edge LLM Inference](https://github.com/abccodes/snapdragon-llm-edge)
+    - Graduate LLM Inference on Edge Devices. [Snapdragon Edge LLM Inference](https://github.com/abccodes/snapdragon-llm-edge).
         - Quantization, pruning, distillation, KV cache compression, state-space models, hierarchical memory transformers, sparse, linear, flash attention, MOE, speculative decoding, and hardware–software co-design for edge deployment
     - [Graduate Software Engineering](https://web.cs.ucla.edu/~miryung//teaching/CS230-Fall2025/main.html). [Fuzzing Exploration](https://github.com/abccodes/cs230).
 
