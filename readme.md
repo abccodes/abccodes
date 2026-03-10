@@ -10,7 +10,7 @@
 - Relevant Courses:
     - Graduate LLM Inference on Edge Devices. [Snapdragon Edge LLM Inference](https://github.com/abccodes/snapdragon-llm-edge).
         - Quantization, pruning, distillation, KV cache compression, state-space models, hierarchical memory transformers, sparse, linear, flash attention, MOE, speculative decoding, and hardware–software co-design for edge deployment
-    - [Graduate Software Engineering](https://web.cs.ucla.edu/~miryung//teaching/CS230-Fall2025/main.html). [Fuzzing Exploration](https://github.com/abccodes/cs230).
+    - [Graduate Software Engineering](https://web.cs.ucla.edu/~miryung//teaching/CS230-Fall2025/main.html). [Fuzzing Exploration](https://github.com/abccodes/fuzzing-exploration).
 
 ##### Summer 2025
 - I am interning as a Software Engineer at [Genentech](https://www.gene.com/)
