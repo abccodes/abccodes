@@ -1,5 +1,6 @@
 ##### Winter 2026
 - Working as a research assistant focusing on end-to-end autonomous driving. [Lab](https://boleizhou.github.io/lab/).
+- Wanted to see news in the past so built [The Cursed Times](https://thecursedtimes.me/)
 - Relevant Courses:
     - [Graduate Big Data Systems](https://web.cs.ucla.edu/~harryxu/courses/239/fall20/index.html)
     - [Graduate Reinforcement Learning](https://fec.seas.ucla.edu/wp-content/uploads/fec/ComSci_260R_Syllabus.pdf)
