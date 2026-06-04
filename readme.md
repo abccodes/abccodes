@@ -1,4 +1,4 @@
-Currently conducting AI research in end-to-end autonomous driving.
+Currently conducting AI research in end-to-end autonomous driving. Always open to chat, please reach out!
 
 - https://www.linkedin.com/in/aidan-bayer-calvert/
 - abayercalvert[at]ucla[dot]edu
