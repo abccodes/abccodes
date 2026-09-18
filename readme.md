@@ -1,4 +1,4 @@
-Building in Stealth and conducting AI research in end-to-end autonomous driving. Always open to chat, please reach out!
+Building in Stealth and conducting research around agents, closed-loop verification, and autonomous end-to-end driving. Always open to chat, please reach out!
 
 - https://www.linkedin.com/in/aidan-bayer-calvert/
 - abayercalvert[at]ucla[dot]edu
