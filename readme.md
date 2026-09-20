@@ -2,4 +2,3 @@ Founding engineer at a YC-backed startup and conducting research around agents, 
 
 - https://www.linkedin.com/in/aidan-bayer-calvert/
 - abayercalvert[at]ucla[dot]edu
-- abayercalvert[at]gmail[dot]com
